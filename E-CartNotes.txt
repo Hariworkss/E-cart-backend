@@ -1,0 +1,8 @@
+
+
+
+
+9)to define routes for client request, Create routes folder and router.js file
+    -> import express
+    ->using express create an object for router class inorder to setup path
+    ->resolving client request
